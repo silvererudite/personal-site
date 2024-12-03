@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Selected Research Projects
+title: research projects
 permalink: /projects/
 description: 
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [llm, vlm, rag, diffusion, vision, nlp]
 horizontal: false
 ---
 
