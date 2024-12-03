@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - silvererudite
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - silvererudite/generative-ai
+  - silvererudite/llm-puzzle-reasoner
+  - silvererudite/diffusion-land
+  - silvererudite/prompt-autocompletion-aws
+  - silvererudite/Operationalizing-an-aws-ml-project
+  - silvererudite/30-for-30-ml-projects
