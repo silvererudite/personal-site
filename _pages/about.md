@@ -25,4 +25,4 @@ I share in-depth analysis of my experiments and paper studies as blog posts here
 
 I want to practice slow research that build foundational work. A lot of my idealogies are inspired from amazing researchers like Andrej Karpathy, Allen-Zhu, Kaimeng He and many others. 
 
-Please reach out if you want to discuss a research collaboration or animes. 
+Please reach out if you want to discuss a research collaboration or chat about animes. 

@@ -6,6 +6,11 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
+github: https://github.com/
+features:
+  - A great capability
+  - Another cool thing
+  - Some final feature
 ---
 
 Every project has a beautiful feature showcase page.
