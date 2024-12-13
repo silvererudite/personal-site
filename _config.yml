@@ -170,10 +170,10 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: hashnode.com
     rss_url: https://shamimabreaksstuff.hashnode.dev/rss.xml
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+#   - name: Google Blog
+#     posts:
+#       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#         published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -199,7 +199,7 @@ collections:
     permalink: /:collection/:title/
 
 announcements:
-  enabled: fale
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
