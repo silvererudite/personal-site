@@ -3,8 +3,10 @@ repo_description_lines_max: 2
 
 github_repos:
   - silvererudite/generative-ai
-  - silvererudite/llm-puzzle-reasoner
-  - silvererudite/diffusion-land
-  - silvererudite/prompt-autocompletion-aws
-  - silvererudite/Operationalizing-an-aws-ml-project
   - silvererudite/30-for-30-ml-projects
+  - silvererudite/diffusion-land
+  - silvererudite/rasa-socket-bot
+  - silvererudite/prompt-autocompletion-aws
+  - silvererudite/mini-unix
+  - silvererudite/Operationalizing-an-aws-ml-project
+  - silvererudite/cv-paper-implementationss

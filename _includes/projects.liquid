@@ -4,12 +4,19 @@
       <div class="card-body">
         <h2 class="card-title">{{ project.title }}</h2>
         <p class="card-text">{{ project.description }}</p>
-        {% if project.features %}
-        <ul class="card-features">
-          {% for feature in project.features %}
-            <li>{{ feature }}</li>
+        {% if project.key_findings %}
+        <div class="card-text">Experimental Findings: </div>
+        <ul>
+          {% for feature in project.key_findings %}
+            <li class="card-text">{{ feature }}</li>
           {% endfor %}
         </ul>
+      {% endif %}
+      {% if project.models %}
+        <p class="card-text">Models: {{ project.models }}</p>
+      {% endif %}
+      {% if project.other %}
+        <p class="card-text">Frameworks/Libraries: {{ project.other }}</p>
       {% endif %}
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}

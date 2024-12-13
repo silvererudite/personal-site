@@ -2,10 +2,10 @@
 layout: page
 title: research projects
 permalink: /projects/
-description: 
+description: I'm currently working on projects that further explore the integration of LLMs and VLMs in multimodal reasoning, fact-checking and tool-usage. These are some of the projects where I perform curiosity-driven experiments and also build working prototypes for the production deployment of deep learning algorithms using cloud technologies. Each project below shows practical applications, experimental methodologies, or unique insights into how LLMs and VLMs work. 
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [vlm, computer vision, llm, demo]
 horizontal: false
 ---
 
