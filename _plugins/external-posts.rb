@@ -10,7 +10,7 @@ module ExternalPosts
     priority :high
 
     def generate(site)
-      return if ENV['JEKYLL_ENV'] == 'development' # Skip in development
+      # return if ENV['JEKYLL_ENV'] == 'development' # Skip in development
       if site.config['external_sources'] != nil
         site.config['external_sources'].each do |src|
           puts "Fetching external posts from #{src['name']}:"
